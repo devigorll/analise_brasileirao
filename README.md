@@ -4,7 +4,7 @@
 ![Linguagem](https://img.shields.io/badge/Language-Python-blue)
 ![Área](https://img.shields.io/badge/Area-Análise-purple)
 
-Este projeto foi desenvolvido como trabalho final para a disciplina de **Estrutura de Dados**, no 2º semestre do curso de **Tecnologia em Ciência de Dados** na **FATEC Jundiaí**.
+Este projeto foi desenvolvido como trabalho final para a disciplina de **Estrutura de Dados**, no 2º semestre do curso de **Ciência de Dados** na **FATEC Jundiaí**.
 
 O objetivo principal é realizar a Análise Exploratória de Dados (EDA), tratamento, manipulação e visualização estatística dos dados do Campeonato Brasileiro de Futebol de 2024 (Brasileirão), culminando em um dashboard interativo para apresentação dos resultados.
 
