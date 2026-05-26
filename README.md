@@ -44,6 +44,9 @@ O repositório está organizado com a seguinte estrutura de diretórios e arquiv
 ├── img/                   # Imagens utilizadas no projeto
 │   └── interface.png      # Interface do usuário criada com Streamlit
 └── README.md              # Documentação do projeto
+```
+
+---
 
 ## 🖥️ Interface do Dashboard
 
