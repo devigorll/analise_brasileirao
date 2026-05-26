@@ -51,7 +51,4 @@ O repositório está organizado com a seguinte estrutura de diretórios e arquiv
 
 ## 💻 Interface do usuário
 
-(../img/interface.png)
-=======
-└── README.md              # Documentação do projeto
->>>>>>> dcbc7e5836f840f2022a3ec67247d0b4ea97f9af
+(img/interface.png)
