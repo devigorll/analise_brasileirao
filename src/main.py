@@ -7,9 +7,9 @@ st.set_page_config(
     layout="wide"
 )
 
-df = pd.read_csv("base_tratada.csv")
-tc = pd.read_csv("classificacao.csv")
-te = pd.read_csv("tabela_times.csv")
+df = pd.read_csv("../data/base_tratada.csv")
+tc = pd.read_csv("../data/classificacao.csv")
+te = pd.read_csv("../data/tabela_times.csv")
 
 media_gols = np.mean(df["GOLS POR JOGO"])
 media_gols_mandante = np.mean(df["GOLS MANDANTE"])
@@ -85,7 +85,7 @@ elif filtro_time == "Ath Paranaense":
 
         st.subheader(f"🏆 Classificação - {filtro_time}")
 
-        st.dataframe(tc[tc["TIME"] == filtro_time], use_container_width=True, )
+        st.dataframe(tc[tc["TIME"] == filtro_time], use_container_width=True )
 
     with right:
 
