@@ -13,7 +13,7 @@ O objetivo principal é realizar a Análise Exploratória de Dados (EDA), tratam
 ## 👥 Autores
 
 * **Igor Cruz** - [GitHub](https://github.com/devigorll)
-* **Guilherme Santos** - [GitHub](https://github.com/) *(Adicione o link do Guilherme aqui se quiser)*
+* **Guilherme Santos** - [GitHub](https://github.com/)
 
 ---
 
