@@ -44,3 +44,13 @@ O repositório está organizado com a seguinte estrutura de diretórios e arquiv
 ├── img/                   # Imagens utilizadas no projeto
 │   └── interface.png      # Interface do usuário criada com Streamlit
 └── README.md              # Documentação do projeto
+
+## 🖥️ Interface do Dashboard
+
+<p align="center">
+  <img src="img/interface.png" width="900">
+</p>
+
+<p align="center">
+  Dashboard interativo desenvolvido com Streamlit para análise do Brasileirão 2024.
+</p>
