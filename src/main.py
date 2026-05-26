@@ -20,7 +20,7 @@ tc.index.name = "Posição"
 
 with st.sidebar:
     st.title("Projeto Estrutura de Dados")
-    st.text("Defiinir quais filtros deverão ser aplicados para a análise dos dados.")
+    st.subheader("Desenvolvido por:\nIgor Cruz e Guilherme Santos")
     st.divider()
     st.subheader("Filtros")
 
@@ -28,8 +28,8 @@ with st.sidebar:
 
 
 
-st.title("⚽ Análise Brasileirão 2024 - EM DESENVOLVIMENTO")
-st.text("Testar outros tipos de layouts, gráficos e métricas para apresentar os dados de forma mais clara e visualmente atraente.")
+st.title("⚽🏆 Análise Brasileirão 2024")
+st.text("Projeto final Estrutura de Dados - Análise do Campeonato Brasileiro 2024")
 
 st.divider()
 

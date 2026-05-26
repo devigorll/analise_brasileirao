@@ -41,4 +41,13 @@ O repositório está organizado com a seguinte estrutura de diretórios e arquiv
 │   └── tratamento.ipynb
 ├── src/                   # Código-fonte principal da aplicação
 │   └── main.py            # Executável do Dashboard (Streamlit)
+├── img                    # Imagens utilizadas no projeto
+|   └── interface.png      # Interface do usuário criada com Streamlit
+|
 └── README.md              # Documentação do projeto
+
+---
+
+## 💻 Interface do usuário
+
+(../img/interface.png)
