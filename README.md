@@ -4,7 +4,7 @@
 ![Linguagem](https://img.shields.io/badge/Language-Python-blue)
 ![Área](https://img.shields.io/badge/Area-Análise-purple)
 
-Este projeto foi desenvolvido como trabalho final para a disciplina de **Estrutura de Dados**, no 2º semestre do curso de **Tecnologia em Ciência de Dados** na **FATEC Jundiaí**.
+Este projeto foi desenvolvido como trabalho final para a disciplina de **Estrutura de Dados**, no 2º semestre do curso de **Ciência de Dados** na **FATEC Jundiaí**.
 
 O objetivo principal é realizar a Análise Exploratória de Dados (EDA), tratamento, manipulação e visualização estatística dos dados do Campeonato Brasileiro de Futebol de 2024 (Brasileirão), culminando em um dashboard interativo para apresentação dos resultados.
 
@@ -13,7 +13,7 @@ O objetivo principal é realizar a Análise Exploratória de Dados (EDA), tratam
 ## 👥 Autores
 
 * **Igor Cruz** - [GitHub](https://github.com/devigorll)
-* **Guilherme Santos** - [GitHub](https://github.com/) *(Adicione o link do Guilherme aqui se quiser)*
+* **Guilherme Santos** - [GitHub](https://github.com/)
 
 ---
 
@@ -41,6 +41,7 @@ O repositório está organizado com a seguinte estrutura de diretórios e arquiv
 │   └── tratamento.ipynb
 ├── src/                   # Código-fonte principal da aplicação
 │   └── main.py            # Executável do Dashboard (Streamlit)
+<<<<<<< HEAD
 ├── img                    # Imagens utilizadas no projeto
 |   └── interface.png      # Interface do usuário criada com Streamlit
 |
@@ -51,3 +52,6 @@ O repositório está organizado com a seguinte estrutura de diretórios e arquiv
 ## 💻 Interface do usuário
 
 (../img/interface.png)
+=======
+└── README.md              # Documentação do projeto
+>>>>>>> dcbc7e5836f840f2022a3ec67247d0b4ea97f9af
