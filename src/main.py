@@ -11,7 +11,7 @@ df = pd.read_csv("../data/base_tratada.csv")
 tc = pd.read_csv("../data/classificacao.csv")
 te = pd.read_csv("../data/tabela_times.csv")
 
-media_gols = np.mean(df["GOLS POR JOGO"])
+media_gols = np.mean(df["GOLS POR JOGO"]) 
 media_gols_mandante = np.mean(df["GOLS MANDANTE"])
 media_gols_visitante = np.mean(df["GOLS VISITANTE"])
 

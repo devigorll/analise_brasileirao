@@ -10,10 +10,13 @@ O objetivo principal é realizar a Análise Exploratória de Dados (EDA), tratam
 
 ---
 
-## 👥 Autores
+## 👥 Autores 
 
 * **Igor Cruz** - [GitHub](https://github.com/devigorll)
-* **Guilherme Santos** - [GitHub](https://github.com/)
+* **Guilherme Santos** - [GitHub](https://github.com/Promeca)
+
+## 🥚 Origem da primeira tabela CSV
+* **Fabio Schirmann** - [Kaggle](https://www.kaggle.com/datasets/fabioschirmann/brasileiro-2024-srie-a-dataset)
 
 ---
 
